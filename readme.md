@@ -2,4 +2,4 @@
 
 Just a small demo of bootstrap.
 
-*Hint* Some of the homwork will use components that are used on this page.
+*Hint* Some of the homework will use components that are used on this page.
